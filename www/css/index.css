@@ -66,17 +66,23 @@
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #contact.ui-body-c{
     /*background-image: url('../images/montage/home_720_blur.png');
     background-repeat: no-repeat;
     background-size: 100% 100%;*/
     background: rgb(255,255,255);
 =======
+=======
+>>>>>>> 545d456609deb33a0ff3dbaa3e680cf28d9b126d
 #contact .ui-content{
     background-image: url('../images/montage/home_720_blur.png');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     min-height: inherit;
+<<<<<<< HEAD
+>>>>>>> 545d456609deb33a0ff3dbaa3e680cf28d9b126d
+=======
 >>>>>>> 545d456609deb33a0ff3dbaa3e680cf28d9b126d
       
 }
