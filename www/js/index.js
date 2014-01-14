@@ -110,7 +110,7 @@ jsonTitles(function(content){
                             'data-position': 'fixed',
                             id: pageid + 'header',
                             'data-theme': 'c'
-                        }).html('<a href="#left-panel" id="menuNav" class="ui-nodisc-icon" data-role="none"><img src="images/nav_g.png"/>Menu</a><h1 id="sectionTitle">'+ pagetitle +'</h1><a href="#home" id="homeNav" class="ui-icon-nodisc" data-role="none">Home</a>')).each(function(){
+                        }).html('<a href="#left-panel" id="menuNav" class="ui-nodisc-icon" data-role="none"><img src="images/svg/nav_g.svg"/>Menu</a><h1 id="sectionTitle">'+ pagetitle +'</h1><a href="#home" id="homeNav" class="ui-icon-nodisc" data-role="none">Home</a>')).each(function(){
                         
                             $(this).append($('<div />', {
                                 'data-role': 'content',
@@ -354,7 +354,7 @@ function initiateList(){
                             'data-position': 'fixed',
                             id: $articleid + 'header',
                             'data-theme': 'c'
-                        }).html('<a href="#left-panel" id="menuNav" class="ui-nodisc-icon" data-role="none"><img src="images/nav_g.png"/>Menu</a><h1 id="sectionTitle">Latest News</h1><a href="#home" id="homeNav" class="ui-icon-nodisc" data-role="none">Home</a>')).each(function(){
+                        }).html('<a href="#left-panel" id="menuNav" class="ui-nodisc-icon" data-role="none"><img src="images/svg/nav_g.svg"/>Menu</a><h1 id="sectionTitle">Latest News</h1><a href="#home" id="homeNav" class="ui-icon-nodisc" data-role="none">Home</a>')).each(function(){
                         
                             $(this).append($('<div />', {
                                 'data-role': 'content',
